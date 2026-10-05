@@ -115,7 +115,23 @@ SECRET=your_session_secret
 
 ## 📸 Screenshots
 
-Screenshots of the application's main pages will be added here.
+### All Listings
+
+Browse available properties with their images, prices, and listing information.
+
+![WanderLust All Listings](screenshots/all-listings.png)
+
+### Listing Details
+
+View detailed property information, manage listings, and submit reviews.
+
+![WanderLust Listing Details](screenshots/listing-details.png)
+
+### Create a Listing
+
+Authenticated users can create new property listings by providing details such as title, description, image, price, country, and location.
+
+![WanderLust Create Listing](screenshots/create-listing.png)
 
 ## 🌱 Future Improvements
 
